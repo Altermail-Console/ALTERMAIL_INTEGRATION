@@ -225,3 +225,6 @@ Use code with caution.
 *   **DigitalOcean Infrastructure, AWS and Azure:** Standard outbound email ports (25, 465, 587) are heavily firewalled on cloud nodes. Routing via **Port 2525** guarantees flawless delivery handshakes with zero custom firewall rule modifications.
 *   **Payload Size Constraints:** Keep all text data, layout elements, and physical asset attachments below a hard combined size cap of **25 MB** per single envelope payload.
 *   **Envelope Cap Rules:** Ensure that the sum total of your `To`, `CC`, and `BCC` fields does not pass **50 recipient addresses** inside a single transaction trigger.
+
+
+Visit our website 👉 [Altermail](https://altermail-console.com.ng)
